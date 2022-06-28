@@ -29,7 +29,6 @@
 	}
 	
 	%>
-	<div align="center"></div>
 	<%
 		out.print("<div align=\"center\">");
 		out.print("1+2+3+...+100 = "+num1);
